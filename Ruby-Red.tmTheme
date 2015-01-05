@@ -12,18 +12,30 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#000000</string>
+				<string>#F02D2D</string>
 				<key>caret</key>
 				<string>#eeeeee</string>
 				<key>foreground</key>
-				<string></string>
+				<string>#000000</string>
 				<key>invisibles</key>
 				<string>#BFBFBF</string>
 				<key>lineHighlight</key>
 				<string>#eeeeee</string>
 				<key>selection</key>
-				<string>#111111</string>
+				<string>#ffffff</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Comment</string>
+			<key>scope</key>
+			<string>comment</string>
+			<key>settings</key>
+			<dict>
+				<key></key>
 			</dict>
 		</dict>
 	</array>
 </dict>
+</plist>
